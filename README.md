@@ -1,0 +1,7 @@
+# Mercadolibre ITChallenge 2018
+
+MeLi's 2018 ITChallenge was a series of problems, mainly related to mathematics, combinatories and cryptography, that were easier to solve using programming. The idea was for the player to understand the necessary logic behind a presented problem, design a viable programming solution (I say viable because some had easy logic but it resulted in an impossible to compute task, so one had to come up with a better logic) and implement it, resulting in a small answer that the player had to paste in the page to claim a problem as solved. Challenges gave points depending on the difficulty of the problem and players would get ranked by the accumulated points, the first ten places received some awards.
+
+## The challenges
+
+The challenges are organized in a folder for each one corresponding to the country that challenge belonged to, inside each folder, there is a txt file called "consigna" containing the given challenge and a py file containing the code I used to get the answer. To run the py file one only has to have Python 3 installed, open the command prompt in that folder and run "python main.py". Finally there is a README.md in each folder containing how I came up with each answer.
