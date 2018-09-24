@@ -4,4 +4,4 @@ This one was very simple, the question only asked for how many teams could be bu
 
 ## Answer
 
-50334s
+50334
