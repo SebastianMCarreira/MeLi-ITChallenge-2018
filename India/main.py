@@ -2,6 +2,8 @@ s = "twotrdeloxqgjhvomjgttdidwhvvfdupupwlrkbgdaydusqkmrowmvxhtphioabhrwkivhxtgmh
 
 posibles = []
 
+from datetime import datetime
+
 i = 1
 p=0
 while i <= len(s):
@@ -11,7 +13,7 @@ while i <= len(s):
             #print(sub)
             posibles.append(sub)
             p+=1
-    print("{} - {}".format(i,p))
+    print("[{}] {} - {}".format(datetime.now().strftime("%Y/%m/%d %H:%M:%S"),i,p))
     posibles = []
     i+=1
 
