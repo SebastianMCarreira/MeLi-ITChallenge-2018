@@ -7,4 +7,6 @@ Por cada consulta debe imprimirse un entero. Cada entero debe corresponder a la 
 Se deberá ingresar la concatenación de todos los casos de prueba en orden, sin espacios.
 
 Entrada
-10 10 9106 137 5339 852 3726 3952 994 210 5304 1471 5990 3581 3266 4392 5290 439 9299 296 9437 479 7 6 8 1 6 7 7 3 7 6
+10 10 9106 137 5339 852 3726 3952 994 210 5304 1471 5990 3581 3266 4392 5290 439 9299 296 9437 479 
+
+7 6 8 1 6 7 7 3 7 6
